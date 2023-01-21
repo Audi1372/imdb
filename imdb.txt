@@ -1,0 +1,20 @@
+CREATE TABLE movies (
+    id INTEGER PRIMARY KEY,
+    title TEXT,
+    director TEXT
+   
+);
+INSERT INTO movies
+VALUES (1, "The Pale Blue Eye",'Scott Cooper');
+
+INSERT INTO movies
+VALUES (2, "The Menu",'Mark Mylod');
+
+INSERT INTO movies
+VALUES (3, "Avatar: The Way of Water",'James Cameron');
+
+INSERT INTO movies
+VALUES (4, " M3GAN",'Gerard Johnstone');
+
+INSERT INTO movies
+VALUES (5, "Glass Onion",'Rian Johnson');
